@@ -10,7 +10,7 @@ import weka.core.Instances;
 
 /**
  *
- * @author ian
+ * @author Pavel Senin
  */
 public class SAXFactory {
 

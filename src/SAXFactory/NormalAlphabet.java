@@ -6,10 +6,6 @@
 package SAXFactory;
 
 /**
- *
- * @author ian
- */
-/**
  * Implements alphabet component for SAX.
  *
  * @author Pavel Senin
